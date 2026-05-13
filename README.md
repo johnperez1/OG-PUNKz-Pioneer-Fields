@@ -1,2 +1,6 @@
 # OG-PUNKz-Pioneer-Fields
 OG PUNKz: Pioneer Fields is a retro-future social MMO on Pi Network. Farm neon crops, trade in a gritty barter economy, and earn "Pioneer" status in a glitch-aesthetic, community-driven wasteland.
+App description:
+**OG PUNKz: Pioneer Fields** is the definitive Web3 social MMO designed for the Pi Network community. Combining 8-bit aesthetics with high-stakes resource management, it offers a gritty, "Cyber-Punk" farming experience where every harvest counts. As a Pioneer, you are tasked with cultivating the digital wasteland, growing neon-infused crops, and participating in a complex barter economy.
+The app features a sophisticated **Proximity Chat** system, turning the social hub into a living world where players huddle to discuss trade strategies and share tips. The **Pioneer Badge** system allows dedicated users to utilize their Pi Coins to gain elite status, unlocking faster energy regeneration and exclusive global "shout" capabilities.
+Whether you are competing for the top spot on the **Pioneer Leaderboard** or simply trading resources at the local black market, OG PUNKz provides a secure, persistent, and immersive world. Experience a game where retro gaming meets the future of decentralized utility. Welcome to the Fields.
